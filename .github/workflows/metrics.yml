@@ -23,6 +23,6 @@ jobs:
 
           # Options
           user: cuongn265
-          template: classic
+          template: repository
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Saigon
